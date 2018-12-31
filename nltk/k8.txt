@@ -1,0 +1,461 @@
+Loading articles...
+../elifesciences-corpus/6156.json Unterminated string starting at: line 1 column 19667 (char 19666)
+../elifesciences-corpus/2511.json Unterminated string starting at: line 1 column 15929 (char 15928)
+../elifesciences-corpus/6063.json Unterminated string starting at: line 1 column 23491 (char 23490)
+../elifesciences-corpus/4186.json Unterminated string starting at: line 1 column 19989 (char 19988)
+../elifesciences-corpus/8150.json Unterminated string starting at: line 1 column 15636 (char 15635)
+../elifesciences-corpus/4180.json Unterminated string starting at: line 1 column 24509 (char 24508)
+../elifesciences-corpus/15690.json Unterminated string starting at: line 1 column 28105 (char 28104)
+../elifesciences-corpus/3650.json Unterminated string starting at: line 1 column 27837 (char 27836)
+../elifesciences-corpus/4402.json Unterminated string starting at: line 1 column 28623 (char 28622)
+../elifesciences-corpus/2419.json Unterminated string starting at: line 1 column 18978 (char 18977)
+../elifesciences-corpus/20975.json Unterminated string starting at: line 1 column 44752 (char 44751)
+../elifesciences-corpus/6564.json Unterminated string starting at: line 1 column 28479 (char 28478)
+../elifesciences-corpus/2451.json Expecting ':' delimiter: line 1 column 16369 (char 16368)
+../elifesciences-corpus/11092.json Unterminated string starting at: line 1 column 16328 (char 16327)
+../elifesciences-corpus/2674.json Unterminated string starting at: line 1 column 27908 (char 27907)
+../elifesciences-corpus/1612.json Unterminated string starting at: line 1 column 15718 (char 15717)
+../elifesciences-corpus/6722.json Unterminated string starting at: line 1 column 24275 (char 24274)
+../elifesciences-corpus/5061.json Unterminated string starting at: line 1 column 15907 (char 15906)
+../elifesciences-corpus/3599.json Unterminated string starting at: line 1 column 18705 (char 18704)
+../elifesciences-corpus/5438.json Unterminated string starting at: line 1 column 20248 (char 20247)
+../elifesciences-corpus/6306.json Expecting property name enclosed in double quotes: line 1 column 20409 (char 20408)
+../elifesciences-corpus/6225.json Unterminated string starting at: line 1 column 27973 (char 27972)
+../elifesciences-corpus/5663.json Unterminated string starting at: line 1 column 20454 (char 20453)
+../elifesciences-corpus/3468.json Unterminated string starting at: line 1 column 60506 (char 60505)
+../elifesciences-corpus/8666.json Unterminated string starting at: line 1 column 44346 (char 44345)
+../elifesciences-corpus/11682.json Unterminated string starting at: line 1 column 18315 (char 18314)
+../elifesciences-corpus/2996.json Unterminated string starting at: line 1 column 16367 (char 16366)
+../elifesciences-corpus/3433.json Unterminated string starting at: line 1 column 24436 (char 24435)
+../elifesciences-corpus/2949.json Unterminated string starting at: line 1 column 44895 (char 44894)
+../elifesciences-corpus/13969.json Unterminated string starting at: line 1 column 15837 (char 15836)
+../elifesciences-corpus/19671.json Unterminated string starting at: line 1 column 20473 (char 20472)
+../elifesciences-corpus/8712.json Unterminated string starting at: line 1 column 15521 (char 15520)
+../elifesciences-corpus/18372.json Unterminated string starting at: line 1 column 15602 (char 15601)
+../elifesciences-corpus/2786.json Unterminated string starting at: line 1 column 27879 (char 27878)
+../elifesciences-corpus/4871.json Unterminated string starting at: line 1 column 15312 (char 15311)
+../elifesciences-corpus/5604.json Unterminated string starting at: line 1 column 25987 (char 25986)
+../elifesciences-corpus/1340.json Unterminated string starting at: line 1 column 27156 (char 27155)
+../elifesciences-corpus/9083.json Unterminated string starting at: line 1 column 60659 (char 60658)
+../elifesciences-corpus/10072.json Unterminated string starting at: line 1 column 27310 (char 27309)
+../elifesciences-corpus/435.json Unterminated string starting at: line 1 column 28020 (char 28019)
+../elifesciences-corpus/7000.json Unterminated string starting at: line 1 column 44572 (char 44571)
+../elifesciences-corpus/4875.json Unterminated string starting at: line 1 column 26174 (char 26173)
+../elifesciences-corpus/1483.json Unterminated string starting at: line 1 column 14949 (char 14948)
+../elifesciences-corpus/5378.json Unterminated string starting at: line 1 column 25926 (char 25925)
+../elifesciences-corpus/15802.json Unterminated string starting at: line 1 column 20394 (char 20393)
+../elifesciences-corpus/16475.json Unterminated string starting at: line 1 column 20067 (char 20066)
+../elifesciences-corpus/1020.json Unterminated string starting at: line 1 column 19964 (char 19963)
+../elifesciences-corpus/2975.json Unterminated string starting at: line 1 column 20337 (char 20336)
+../elifesciences-corpus/5345.json Unterminated string starting at: line 1 column 44165 (char 44164)
+../elifesciences-corpus/8022.json Unterminated string starting at: line 1 column 24430 (char 24429)
+../elifesciences-corpus/1308.json Unterminated string starting at: line 1 column 20414 (char 20413)
+../elifesciences-corpus/2848.json Unterminated string starting at: line 1 column 16249 (char 16248)
+../elifesciences-corpus/9943.json Unterminated string starting at: line 1 column 23553 (char 23552)
+../elifesciences-corpus/90.json Unterminated string starting at: line 1 column 20011 (char 20010)
+../elifesciences-corpus/15258.json Unterminated string starting at: line 1 column 43713 (char 43712)
+../elifesciences-corpus/2910.json Unterminated string starting at: line 1 column 18610 (char 18609)
+../elifesciences-corpus/11184.json Unterminated string starting at: line 1 column 15977 (char 15976)
+../elifesciences-corpus/1911.json Unterminated string starting at: line 1 column 28518 (char 28517)
+../elifesciences-corpus/11349.json Unterminated string starting at: line 1 column 23537 (char 23536)
+../elifesciences-corpus/6935.json Unterminated string starting at: line 1 column 44170 (char 44169)
+../elifesciences-corpus/3222.json Unterminated string starting at: line 1 column 19177 (char 19176)
+../elifesciences-corpus/4024.json 'utf-8' codec can't decode byte 0xe2 in position 16383: unexpected end of data
+../elifesciences-corpus/18165.json Unterminated string starting at: line 1 column 19465 (char 19464)
+../elifesciences-corpus/6492.json Unterminated string starting at: line 1 column 44707 (char 44706)
+../elifesciences-corpus/10856.json Unterminated string starting at: line 1 column 26935 (char 26934)
+../elifesciences-corpus/3405.json Unterminated string starting at: line 1 column 14976 (char 14975)
+../elifesciences-corpus/10230.json Unterminated string starting at: line 1 column 19707 (char 19706)
+../elifesciences-corpus/38519.json Expecting value: line 1 column 1 (char 0)
+../elifesciences-corpus/6474.json Unterminated string starting at: line 1 column 19375 (char 19374)
+../elifesciences-corpus/17635.json Unterminated string starting at: line 1 column 26583 (char 26582)
+../elifesciences-corpus/5913.json Unterminated string starting at: line 1 column 16064 (char 16063)
+../elifesciences-corpus/5068.json Unterminated string starting at: line 1 column 28472 (char 28471)
+../elifesciences-corpus/6195.json Unterminated string starting at: line 1 column 16016 (char 16015)
+../elifesciences-corpus/6513.json Unterminated string starting at: line 1 column 15984 (char 15983)
+../elifesciences-corpus/2444.json 'utf-8' codec can't decode bytes in position 20478-20479: unexpected end of data
+../elifesciences-corpus/380.json Unterminated string starting at: line 1 column 20126 (char 20125)
+../elifesciences-corpus/2236.json Unterminated string starting at: line 1 column 19147 (char 19146)
+../elifesciences-corpus/6500.json Unterminated string starting at: line 1 column 28051 (char 28050)
+../elifesciences-corpus/4919.json Unterminated string starting at: line 1 column 24136 (char 24135)
+../elifesciences-corpus/10542.json Unterminated string starting at: line 1 column 20388 (char 20387)
+../elifesciences-corpus/2938.json Unterminated string starting at: line 1 column 16182 (char 16181)
+../elifesciences-corpus/813.json Unterminated string starting at: line 1 column 19769 (char 19768)
+../elifesciences-corpus/6547.json Unterminated string starting at: line 1 column 18860 (char 18859)
+../elifesciences-corpus/2536.json Unterminated string starting at: line 1 column 13664 (char 13663)
+../elifesciences-corpus/2104.json Unterminated string starting at: line 1 column 16094 (char 16093)
+../elifesciences-corpus/1968.json Expecting ':' delimiter: line 1 column 16371 (char 16370)
+../elifesciences-corpus/10140.json Unterminated string starting at: line 1 column 27485 (char 27484)
+../elifesciences-corpus/299.json Unterminated string starting at: line 1 column 19616 (char 19615)
+../elifesciences-corpus/983.json Unterminated string starting at: line 1 column 16337 (char 16336)
+../elifesciences-corpus/11155.json Unterminated string starting at: line 1 column 28389 (char 28388)
+../elifesciences-corpus/7113.json Unterminated string starting at: line 1 column 19402 (char 19401)
+../elifesciences-corpus/2626.json Unterminated string starting at: line 1 column 28550 (char 28549)
+../elifesciences-corpus/160.json Unterminated string starting at: line 1 column 19981 (char 19980)
+../elifesciences-corpus/4132.json Unterminated string starting at: line 1 column 19874 (char 19873)
+../elifesciences-corpus/15828.json Unterminated string starting at: line 1 column 16377 (char 16376)
+../elifesciences-corpus/444.json Unterminated string starting at: line 1 column 24552 (char 24551)
+../elifesciences-corpus/6994.json Unterminated string starting at: line 1 column 20446 (char 20445)
+../elifesciences-corpus/6557.json Unterminated string starting at: line 1 column 80638 (char 80637)
+../elifesciences-corpus/13620.json Unterminated string starting at: line 1 column 61198 (char 61197)
+../elifesciences-corpus/8716.json Unterminated string starting at: line 1 column 23881 (char 23880)
+../elifesciences-corpus/5216.json Unterminated string starting at: line 1 column 28544 (char 28543)
+../elifesciences-corpus/6508.json Unterminated string starting at: line 1 column 16098 (char 16097)
+../elifesciences-corpus/3522.json Unterminated string starting at: line 1 column 15708 (char 15707)
+../elifesciences-corpus/10557.json Unterminated string starting at: line 1 column 20152 (char 20151)
+../elifesciences-corpus/7101.json Unterminated string starting at: line 1 column 44776 (char 44775)
+../elifesciences-corpus/7938.json Unterminated string starting at: line 1 column 16377 (char 16376)
+../elifesciences-corpus/19695.json Unterminated string starting at: line 1 column 44254 (char 44253)
+../elifesciences-corpus/2403.json Unterminated string starting at: line 1 column 20227 (char 20226)
+../elifesciences-corpus/1833.json Unterminated string starting at: line 1 column 19301 (char 19300)
+../elifesciences-corpus/9275.json Unterminated string starting at: line 1 column 28286 (char 28285)
+../elifesciences-corpus/2245.json Unterminated string starting at: line 1 column 44057 (char 44056)
+../elifesciences-corpus/1322.json Unterminated string starting at: line 1 column 15965 (char 15964)
+../elifesciences-corpus/11031.json Unterminated string starting at: line 1 column 23706 (char 23705)
+../elifesciences-corpus/4585.json Unterminated string starting at: line 1 column 27317 (char 27316)
+../elifesciences-corpus/10222.json Unterminated string starting at: line 1 column 16298 (char 16297)
+../elifesciences-corpus/868.json 'utf-8' codec can't decode byte 0xc2 in position 16383: unexpected end of data
+../elifesciences-corpus/2872.json Unterminated string starting at: line 1 column 15304 (char 15303)
+../elifesciences-corpus/1369.json Unterminated string starting at: line 1 column 60424 (char 60423)
+../elifesciences-corpus/4177.json Expecting value: line 1 column 28571 (char 28570)
+../elifesciences-corpus/4105.json Unterminated string starting at: line 1 column 28454 (char 28453)
+../elifesciences-corpus/7909.json Unterminated string starting at: line 1 column 18557 (char 18556)
+../elifesciences-corpus/9800.json Unterminated string starting at: line 1 column 44592 (char 44591)
+../elifesciences-corpus/6959.json Unterminated string starting at: line 1 column 20443 (char 20442)
+../elifesciences-corpus/1439.json Unterminated string starting at: line 1 column 28540 (char 28539)
+../elifesciences-corpus/336.json Unterminated string starting at: line 1 column 28413 (char 28412)
+../elifesciences-corpus/23647.json Unterminated string starting at: line 1 column 93322 (char 93321)
+../elifesciences-corpus/18449.json Unterminated string starting at: line 1 column 20144 (char 20143)
+../elifesciences-corpus/9015.json Unterminated string starting at: line 1 column 16321 (char 16320)
+../elifesciences-corpus/19042.json Unterminated string starting at: line 1 column 24402 (char 24401)
+../elifesciences-corpus/5473.json Unterminated string starting at: line 1 column 22662 (char 22661)
+../elifesciences-corpus/10727.json Unterminated string starting at: line 1 column 26840 (char 26839)
+../elifesciences-corpus/19720.json Unterminated string starting at: line 1 column 27516 (char 27515)
+../elifesciences-corpus/508.json Unterminated string starting at: line 1 column 20102 (char 20101)
+../elifesciences-corpus/2734.json Unterminated string starting at: line 1 column 26820 (char 26819)
+../elifesciences-corpus/22331.json Unterminated string starting at: line 1 column 28089 (char 28088)
+Loaded 2200 articles.
+Vectorizing...
+Clustering... K=8
+Fitting K-Means...
+Initialization complete
+Iteration  0, inertia 4149.324
+Iteration  1, inertia 2137.466
+Iteration  2, inertia 2133.119
+Iteration  3, inertia 2129.969
+Iteration  4, inertia 2126.981
+Iteration  5, inertia 2125.976
+Iteration  6, inertia 2125.809
+Iteration  7, inertia 2125.740
+Iteration  8, inertia 2125.720
+Iteration  9, inertia 2125.703
+Iteration 10, inertia 2125.681
+Iteration 11, inertia 2125.667
+Converged at iteration 11: center shift 0.000000e+00 within tolerance 2.039054e-09
+Result of fit: (array([0, 1, 2, 3, 4, 5, 6, 7], dtype=int32), array([ 72, 171, 796, 219, 131, 302,  58, 451]))
+Building entire text for each cluster...
+    ...0/2200
+    ...100/2200
+    ...200/2200
+    ...300/2200
+    ...400/2200
+    ...500/2200
+    ...600/2200
+    ...700/2200
+    ...800/2200
+    ...900/2200
+    ...1000/2200
+    ...1100/2200
+    ...1200/2200
+    ...1300/2200
+    ...1400/2200
+    ...1500/2200
+    ...1600/2200
+    ...1700/2200
+    ...1800/2200
+    ...1900/2200
+    ...2000/2200
+    ...2100/2200
+Building stopwords...
+Get top words for each cluster...
+    Cluster 0
+    - Unique Words: 20535
+    - Top Words: rna
+     - mrna
+     - cells
+     - using
+     - expression
+     - protein
+     - proteins
+     - splicing
+     - genes
+     - mrnas
+    Cluster 1
+    - Unique Words: 33408
+    - Top Words: neurons
+     - cells
+     - using
+     - synaptic
+     - activity
+     - firing
+     - cell
+     - used
+     - also
+     - data
+    Cluster 2
+    - Unique Words: 107202
+    - Top Words: cells
+     - expression
+     - cell
+     - using
+     - genes
+     - also
+     - gene
+     - used
+     - mice
+     - data
+    Cluster 3
+    - Unique Words: 40135
+    - Top Words: mice
+     - neurons
+     - cells
+     - using
+     - activity
+     - expression
+     - also
+     - used
+     - animals
+     - response
+    Cluster 4
+    - Unique Words: 24060
+    - Top Words: model
+     - trials
+     - ’
+     - two
+     - neurons
+     - activity
+     - stimulus
+     - data
+     - time
+     - using
+    Cluster 5
+    - Unique Words: 52625
+    - Top Words: cells
+     - using
+     - cell
+     - membrane
+     - also
+     - protein
+     - proteins
+     - used
+     - 1
+     - data
+    Cluster 6
+    - Unique Words: 18413
+    - Top Words: cells
+     - using
+     - cell
+     - dynein
+     - transport
+     - microtubule
+     - also
+     - microtubules
+     - mt
+     - proteins
+    Cluster 7
+    - Unique Words: 77404
+    - Top Words: cells
+     - using
+     - binding
+     - protein
+     - proteins
+     - two
+     - used
+     - also
+     - complex
+     - domain
+Get words unqiue to each cluster...
+    Cluster 0
+    - Unique: 5169 (2.29%)
+    - Intersect: 15366 (6.80%)
+    - List: splicing
+     - mrnas
+     - transcripts
+     - translation
+     - exon
+     - exons
+     - rnas
+     - alternative
+     - targets
+     - granules
+     - ribosome
+     - transcript
+     - stress
+     - splice
+     - 3′
+     - translational
+     - sequencing
+     - rna-seq
+     - events
+     - repression
+    Cluster 1
+    - Unique: 10978 (4.86%)
+    - Intersect: 22430 (9.92%)
+    - List: network
+     - input
+     - spike
+     - synapses
+     - recordings
+     - excitatory
+     - inputs
+     - interneurons
+     - inhibitory
+     - spikes
+     - dendritic
+     - amplitude
+     - presynaptic
+     - spiking
+     - properties
+     - types
+     - axons
+     - recording
+     - postsynaptic
+     - peak
+    Cluster 2
+    - Unique: 64652 (28.61%)
+    - Intersect: 42550 (18.83%)
+    - List: embryos
+     - tissue
+     - differentiation
+     - chromatin
+     - cancer
+     - promoter
+     - genetic
+     - lines
+     - transcriptional
+     - early
+     - muscle
+     - tumor
+     - induced
+     - primary
+     - phenotype
+     - vivo
+     - methylation
+     - genomic
+     - proliferation
+     - factor
+    Cluster 3
+    - Unique: 14406 (6.37%)
+    - Intersect: 25729 (11.38%)
+    - List: flies
+     - food
+     - odor
+     - adult
+     - day
+     - animal
+     - olfactory
+     - rats
+     - sleep
+     - receptor
+     - male
+     - dopamine
+     - fear
+     - plasticity
+     - female
+     - conditioning
+     - behaviors
+     - placed
+     - feeding
+     - groups
+    Cluster 4
+    - Unique: 8159 (3.61%)
+    - Intersect: 15901 (7.04%)
+    - List: task
+     - subjects
+     - participants
+     - trial
+     - value
+     - performance
+     - decision
+     - experiment
+     - choice
+     - correlation
+     - areas
+     - evidence
+     - presented
+     - pattern
+     - hand
+     - direction
+     - subject
+     - difference
+     - grid
+     - order
+    Cluster 5
+    - Unique: 21773 (9.63%)
+    - Intersect: 30852 (13.65%)
+    - List: ca2+
+     - er
+     - infection
+     - plants
+     - mitochondrial
+     - host
+     - fusion
+     - viral
+     - virus
+     - viruses
+     - mitochondria
+     - infected
+     - plasma
+     - vesicles
+     - transmission
+     - medium
+     - washed
+     - membranes
+     - new
+     - parasites
+    Cluster 6
+    - Unique: 4694 (2.08%)
+    - Intersect: 13719 (6.07%)
+    - List: dynein
+     - microtubule
+     - microtubules
+     - mt
+     - mts
+     - spindle
+     - fg
+     - cargo
+     - crm1
+     - lis1
+     - golgi
+     - along
+     - plus
+     - nup98
+     - es26
+     - ends
+     - nucleus
+     - motors
+     - npc
+     - minus
+    Cluster 7
+    - Unique: 42420 (18.77%)
+    - Intersect: 34984 (15.48%)
+    - List: structural
+     - å
+     - substrate
+     - active
+     - resolution
+     - molecular
+     - crystal
+     - reaction
+     - affinity
+     - interface
+     - subunit
+     - conformation
+     - molecules
+     - respectively
+     - concentrations
+     - peptide
+     - subunits
+     - c-terminal
+     - amino
+     - additional

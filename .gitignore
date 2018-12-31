@@ -1,6 +1,7 @@
 *.code-workspace
 *.json
 *.pdf
+*.webm
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

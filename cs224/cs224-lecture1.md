@@ -99,3 +99,6 @@ A lot of the key techniques were invented in 80's and 90's
 - second breakthrough - classification of objects
 - again 27% error reduction (Zeiler & Ferfus 2013)
 
+## Why is DL hard?
+
+TBD (42 mins 29 seconds into Video)
