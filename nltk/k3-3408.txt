@@ -1,0 +1,169 @@
+Loading articles...
+Loaded 3408 articles.
+Vectorizing...
+Clustering... K=3
+Fitting K-Means...
+Initialization complete
+Iteration  0, inertia 6580.911
+Iteration  1, inertia 3342.831
+Iteration  2, inertia 3336.849
+Iteration  3, inertia 3334.179
+Iteration  4, inertia 3333.238
+Iteration  5, inertia 3332.888
+Iteration  6, inertia 3332.733
+Iteration  7, inertia 3332.665
+Iteration  8, inertia 3332.640
+Iteration  9, inertia 3332.618
+Iteration 10, inertia 3332.608
+Iteration 11, inertia 3332.593
+Iteration 12, inertia 3332.578
+Iteration 13, inertia 3332.574
+Iteration 14, inertia 3332.571
+Iteration 15, inertia 3332.569
+Converged at iteration 15: center shift 0.000000e+00 within tolerance 1.627418e-09
+Result of fit: (array([0, 1, 2], dtype=int32), array([1179, 1586,  643]))
+Building entire text for each cluster...
+    ...0/3408
+    ...100/3408
+    ...200/3408
+    ...300/3408
+    ...400/3408
+    ...500/3408
+    ...600/3408
+    ...700/3408
+    ...800/3408
+    ...900/3408
+    ...1000/3408
+    ...1100/3408
+    ...1200/3408
+    ...1300/3408
+    ...1400/3408
+    ...1500/3408
+    ...1600/3408
+    ...1700/3408
+    ...1800/3408
+    ...1900/3408
+    ...2000/3408
+    ...2100/3408
+    ...2200/3408
+    ...2300/3408
+    ...2400/3408
+    ...2500/3408
+    ...2600/3408
+    ...2700/3408
+    ...2800/3408
+    ...2900/3408
+    ...3000/3408
+    ...3100/3408
+    ...3200/3408
+    ...3300/3408
+    ...3400/3408
+Building stopwords...
+Get top words for each cluster...
+    Cluster 0
+    - Unique Words: 144511
+    - Top Words: cells
+     - cell
+     - using
+     - expression
+     - mice
+     - also
+     - protein
+     - used
+     - levels
+     - 1
+    Cluster 1
+    - Unique Words: 167788
+    - Top Words: using
+     - cells
+     - protein
+     - used
+     - also
+     - two
+     - cell
+     - data
+     - binding
+     - dna
+    Cluster 2
+    - Unique Words: 74343
+    - Top Words: neurons
+     - activity
+     - using
+     - cells
+     - used
+     - also
+     - two
+     - data
+     - mice
+     - model
+Get words unqiue to each cluster...
+    Cluster 0
+    - Unique: 91589 (30.24%)
+    - Intersect: 52922 (17.47%)
+    - List: signaling
+     - embryos
+     - loss
+     - development
+     - pathway
+     - tissue
+     - treatment
+     - differentiation
+     - antibody
+     - antibodies
+     - phosphorylation
+     - actin
+     - wt
+     - ca2+
+     - normal
+     - analyzed
+     - muscle
+     - vivo
+     - primary
+     - upon
+    Cluster 1
+    - Unique: 114594 (37.83%)
+    - Intersect: 53194 (17.56%)
+    - List: structure
+     - sequence
+     - site
+     - interactions
+     - residues
+     - species
+     - sequences
+     - genome
+     - complexes
+     - structures
+     - many
+     - yeast
+     - mutation
+     - domains
+     - relative
+     - bound
+     - chromatin
+     - new
+     - sample
+     - active
+    Cluster 2
+    - Unique: 37641 (12.43%)
+    - Intersect: 36702 (12.12%)
+    - List: responses
+     - stimulus
+     - firing
+     - trials
+     - visual
+     - brain
+     - synaptic
+     - neural
+     - stimuli
+     - neuron
+     - stimulation
+     - cortex
+     - information
+     - task
+     - motor
+     - memory
+     - learning
+     - sensory
+     - input
+     - behavioral
+

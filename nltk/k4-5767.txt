@@ -1,0 +1,228 @@
+Loading articles...
+Loaded 5767 articles.
+Vectorizing...
+Clustering... K=4
+Fitting K-Means...
+Initialization complete
+Iteration  0, inertia 11175.352
+Iteration  1, inertia 5658.054
+Iteration  2, inertia 5645.433
+Iteration  3, inertia 5640.066
+Iteration  4, inertia 5638.186
+Iteration  5, inertia 5637.194
+Iteration  6, inertia 5636.528
+Iteration  7, inertia 5636.179
+Iteration  8, inertia 5635.920
+Iteration  9, inertia 5635.735
+Iteration 10, inertia 5635.599
+Iteration 11, inertia 5635.541
+Iteration 12, inertia 5635.499
+Iteration 13, inertia 5635.480
+Iteration 14, inertia 5635.468
+Iteration 15, inertia 5635.466
+Iteration 16, inertia 5635.465
+Iteration 17, inertia 5635.462
+Converged at iteration 17: center shift 0.000000e+00 within tolerance 1.185150e-09
+Result of fit: (array([0, 1, 2, 3], dtype=int32), array([1749, 1702, 1396,  920]))
+Building entire text for each cluster...
+    ...0/5767
+    ...100/5767
+    ...200/5767
+    ...300/5767
+    ...400/5767
+    ...500/5767
+    ...600/5767
+    ...700/5767
+    ...800/5767
+    ...900/5767
+    ...1000/5767
+    ...1100/5767
+    ...1200/5767
+    ...1300/5767
+    ...1400/5767
+    ...1500/5767
+    ...1600/5767
+    ...1700/5767
+    ...1800/5767
+    ...1900/5767
+    ...2000/5767
+    ...2100/5767
+    ...2200/5767
+    ...2300/5767
+    ...2400/5767
+    ...2500/5767
+    ...2600/5767
+    ...2700/5767
+    ...2800/5767
+    ...2900/5767
+    ...3000/5767
+    ...3100/5767
+    ...3200/5767
+    ...3300/5767
+    ...3400/5767
+    ...3500/5767
+    ...3600/5767
+    ...3700/5767
+    ...3800/5767
+    ...3900/5767
+    ...4000/5767
+    ...4100/5767
+    ...4200/5767
+    ...4300/5767
+    ...4400/5767
+    ...4500/5767
+    ...4600/5767
+    ...4700/5767
+    ...4800/5767
+    ...4900/5767
+    ...5000/5767
+    ...5100/5767
+    ...5200/5767
+    ...5300/5767
+    ...5400/5767
+    ...5500/5767
+    ...5600/5767
+    ...5700/5767
+Building stopwords...
+Get top words for each cluster...
+    Cluster 0
+    - Unique Words: 188605
+    - Top Words: cells
+     - cell
+     - expression
+     - mice
+     - using
+     - also
+     - used
+     - signaling
+     - levels
+     - ’
+    Cluster 1
+    - Unique Words: 200933
+    - Top Words: cells
+     - using
+     - protein
+     - cell
+     - proteins
+     - binding
+     - also
+     - used
+     - two
+     - 1
+    Cluster 2
+    - Unique Words: 139341
+    - Top Words: using
+     - cells
+     - genes
+     - gene
+     - expression
+     - used
+     - data
+     - ’
+     - also
+     - dna
+    Cluster 3
+    - Unique Words: 91499
+    - Top Words: neurons
+     - activity
+     - using
+     - ’
+     - cells
+     - used
+     - two
+     - time
+     - model
+     - data
+Get words unqiue to each cluster...
+    Cluster 0
+    - Unique: 115288 (25.10%)
+    - Intersect: 73317 (15.96%)
+    - List: signaling
+     - embryos
+     - development
+     - tissue
+     - loss
+     - treatment
+     - pathway
+     - differentiation
+     - wt
+     - days
+     - muscle
+     - antibodies
+     - antibody
+     - normal
+     - vivo
+     - adult
+     - early
+     - tumor
+     - primary
+     - proliferation
+    Cluster 1
+    - Unique: 130130 (28.33%)
+    - Intersect: 70803 (15.42%)
+    - List: structure
+     - residues
+     - nm
+     - concentration
+     - structures
+     - domains
+     - complexes
+     - fluorescence
+     - form
+     - surface
+     - atp
+     - ph
+     - actin
+     - bound
+     - purified
+     - channel
+     - 50
+     - solution
+     - assembly
+     - structural
+    Cluster 2
+    - Unique: 75635 (16.47%)
+    - Intersect: 63706 (13.87%)
+    - List: genome
+     - species
+     - sequences
+     - reads
+     - chromatin
+     - many
+     - genetic
+     - sequencing
+     - transcripts
+     - infection
+     - genomic
+     - strains
+     - mutation
+     - promoter
+     - new
+     - plants
+     - selection
+     - methylation
+     - fitness
+     - pcr
+    Cluster 3
+    - Unique: 45985 (10.01%)
+    - Intersect: 45514 (9.91%)
+    - List: stimulus
+     - trials
+     - firing
+     - visual
+     - task
+     - stimuli
+     - stimulation
+     - learning
+     - cortex
+     - neuron
+     - information
+     - network
+     - motor
+     - input
+     - behavioral
+     - sensory
+     - spatial
+     - mean
+     - frequency
+     - ms

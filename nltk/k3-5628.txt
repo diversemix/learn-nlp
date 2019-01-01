@@ -1,0 +1,211 @@
+Loading articles...
+Loaded 5628 articles.
+Vectorizing...
+Clustering... K=3
+Fitting K-Means...
+Initialization complete
+Iteration  0, inertia 10971.351
+Iteration  1, inertia 5527.356
+Iteration  2, inertia 5518.612
+Iteration  3, inertia 5516.329
+Iteration  4, inertia 5515.425
+Iteration  5, inertia 5513.844
+Iteration  6, inertia 5512.767
+Iteration  7, inertia 5512.599
+Iteration  8, inertia 5512.520
+Iteration  9, inertia 5512.471
+Iteration 10, inertia 5512.421
+Iteration 11, inertia 5512.371
+Iteration 12, inertia 5512.327
+Iteration 13, inertia 5512.287
+Iteration 14, inertia 5512.252
+Iteration 15, inertia 5512.204
+Iteration 16, inertia 5512.164
+Iteration 17, inertia 5512.130
+Iteration 18, inertia 5512.084
+Iteration 19, inertia 5512.040
+Iteration 20, inertia 5511.985
+Iteration 21, inertia 5511.936
+Iteration 22, inertia 5511.873
+Iteration 23, inertia 5511.785
+Iteration 24, inertia 5511.665
+Iteration 25, inertia 5511.533
+Iteration 26, inertia 5511.417
+Iteration 27, inertia 5511.261
+Iteration 28, inertia 5511.088
+Iteration 29, inertia 5511.012
+Iteration 30, inertia 5510.956
+Iteration 31, inertia 5510.924
+Iteration 32, inertia 5510.898
+Iteration 33, inertia 5510.883
+Iteration 34, inertia 5510.876
+Iteration 35, inertia 5510.874
+Converged at iteration 35: center shift 0.000000e+00 within tolerance 1.202904e-09
+Result of fit: (array([0, 1, 2], dtype=int32), array([1277, 1073, 3278]))
+Building entire text for each cluster...
+    ...0/5628
+    ...100/5628
+    ...200/5628
+    ...300/5628
+    ...400/5628
+    ...500/5628
+    ...600/5628
+    ...700/5628
+    ...800/5628
+    ...900/5628
+    ...1000/5628
+    ...1100/5628
+    ...1200/5628
+    ...1300/5628
+    ...1400/5628
+    ...1500/5628
+    ...1600/5628
+    ...1700/5628
+    ...1800/5628
+    ...1900/5628
+    ...2000/5628
+    ...2100/5628
+    ...2200/5628
+    ...2300/5628
+    ...2400/5628
+    ...2500/5628
+    ...2600/5628
+    ...2700/5628
+    ...2800/5628
+    ...2900/5628
+    ...3000/5628
+    ...3100/5628
+    ...3200/5628
+    ...3300/5628
+    ...3400/5628
+    ...3500/5628
+    ...3600/5628
+    ...3700/5628
+    ...3800/5628
+    ...3900/5628
+    ...4000/5628
+    ...4100/5628
+    ...4200/5628
+    ...4300/5628
+    ...4400/5628
+    ...4500/5628
+    ...4600/5628
+    ...4700/5628
+    ...4800/5628
+    ...4900/5628
+    ...5000/5628
+    ...5100/5628
+    ...5200/5628
+    ...5300/5628
+    ...5400/5628
+    ...5500/5628
+    ...5600/5628
+Building stopwords...
+Get top words for each cluster...
+    Cluster 0
+    - Unique Words: 161256
+    - Top Words: cells
+     - using
+     - protein
+     - binding
+     - proteins
+     - two
+     - used
+     - also
+     - cell
+     - 1
+    Cluster 1
+    - Unique Words: 104761
+    - Top Words: neurons
+     - activity
+     - using
+     - cells
+     - used
+     - ’
+     - two
+     - also
+     - time
+     - mice
+    Cluster 2
+    - Unique Words: 294349
+    - Top Words: cells
+     - using
+     - cell
+     - expression
+     - also
+     - used
+     - genes
+     - ’
+     - mice
+     - gene
+Get words unqiue to each cluster...
+    Cluster 0
+    - Unique: 97379 (21.62%)
+    - Intersect: 63877 (14.18%)
+    - List: structure
+     - residues
+     - nm
+     - structures
+     - concentration
+     - domains
+     - complexes
+     - atp
+     - fluorescence
+     - ph
+     - ca2+
+     - channel
+     - surface
+     - bound
+     - actin
+     - form
+     - structural
+     - solution
+     - purified
+     - density
+    Cluster 1
+    - Unique: 55039 (12.22%)
+    - Intersect: 49722 (11.04%)
+    - List: responses
+     - stimulus
+     - firing
+     - trials
+     - brain
+     - visual
+     - synaptic
+     - neural
+     - task
+     - stimulation
+     - stimuli
+     - neuron
+     - cortex
+     - learning
+     - motor
+     - information
+     - behavioral
+     - network
+     - sensory
+     - input
+    Cluster 2
+    - Unique: 218706 (48.56%)
+    - Intersect: 75643 (16.80%)
+    - List: genes
+     - gene
+     - signaling
+     - expressed
+     - transcription
+     - embryos
+     - development
+     - loss
+     - mrna
+     - tissue
+     - treatment
+     - species
+     - pathway
+     - type
+     - genome
+     - factors
+     - sequences
+     - suggesting
+     - many
+     - known
+

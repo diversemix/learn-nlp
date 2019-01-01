@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 import re
 import json
 import sys
@@ -43,7 +46,8 @@ def get_articles():
             text = ""
             try:
                 data = json.load(f)
-                text = process_body(data['body'])
+                if 'body' in data:
+                    text = process_body(data['body'])
             except ValueError as e:
                 print(article, e)
             if len(text) > 0:

@@ -1,0 +1,274 @@
+Loading articles...
+Loaded 5767 articles.
+Vectorizing...
+Clustering... K=5
+Fitting K-Means...
+Initialization complete
+Iteration  0, inertia 11150.307
+Iteration  1, inertia 5650.567
+Iteration  2, inertia 5638.456
+Iteration  3, inertia 5633.265
+Iteration  4, inertia 5630.403
+Iteration  5, inertia 5629.038
+Iteration  6, inertia 5627.888
+Iteration  7, inertia 5627.002
+Iteration  8, inertia 5626.487
+Iteration  9, inertia 5626.123
+Iteration 10, inertia 5625.879
+Iteration 11, inertia 5625.634
+Iteration 12, inertia 5625.257
+Iteration 13, inertia 5624.186
+Iteration 14, inertia 5623.874
+Iteration 15, inertia 5623.804
+Iteration 16, inertia 5623.724
+Iteration 17, inertia 5623.679
+Iteration 18, inertia 5623.652
+Iteration 19, inertia 5623.633
+Iteration 20, inertia 5623.611
+Iteration 21, inertia 5623.586
+Iteration 22, inertia 5623.575
+Iteration 23, inertia 5623.573
+Iteration 24, inertia 5623.570
+Iteration 25, inertia 5623.569
+Iteration 26, inertia 5623.567
+Iteration 27, inertia 5623.566
+Iteration 28, inertia 5623.565
+Converged at iteration 28: center shift 0.000000e+00 within tolerance 1.185150e-09
+Result of fit: (array([0, 1, 2, 3, 4], dtype=int32), array([1587,  440, 1790, 1257,  693]))
+Building entire text for each cluster...
+    ...0/5767
+    ...100/5767
+    ...200/5767
+    ...300/5767
+    ...400/5767
+    ...500/5767
+    ...600/5767
+    ...700/5767
+    ...800/5767
+    ...900/5767
+    ...1000/5767
+    ...1100/5767
+    ...1200/5767
+    ...1300/5767
+    ...1400/5767
+    ...1500/5767
+    ...1600/5767
+    ...1700/5767
+    ...1800/5767
+    ...1900/5767
+    ...2000/5767
+    ...2100/5767
+    ...2200/5767
+    ...2300/5767
+    ...2400/5767
+    ...2500/5767
+    ...2600/5767
+    ...2700/5767
+    ...2800/5767
+    ...2900/5767
+    ...3000/5767
+    ...3100/5767
+    ...3200/5767
+    ...3300/5767
+    ...3400/5767
+    ...3500/5767
+    ...3600/5767
+    ...3700/5767
+    ...3800/5767
+    ...3900/5767
+    ...4000/5767
+    ...4100/5767
+    ...4200/5767
+    ...4300/5767
+    ...4400/5767
+    ...4500/5767
+    ...4600/5767
+    ...4700/5767
+    ...4800/5767
+    ...4900/5767
+    ...5000/5767
+    ...5100/5767
+    ...5200/5767
+    ...5300/5767
+    ...5400/5767
+    ...5500/5767
+    ...5600/5767
+    ...5700/5767
+Building stopwords...
+Get top words for each cluster...
+    Cluster 0
+    - Unique Words: 192609
+    - Top Words: cells
+     - using
+     - protein
+     - binding
+     - proteins
+     - also
+     - used
+     - cell
+     - two
+     - 1
+    Cluster 1
+    - Unique Words: 51146
+    - Top Words: activity
+     - ’
+     - model
+     - trials
+     - time
+     - two
+     - data
+     - using
+     - task
+     - used
+    Cluster 2
+    - Unique Words: 186407
+    - Top Words: cells
+     - using
+     - cell
+     - expression
+     - mice
+     - genes
+     - used
+     - also
+     - gene
+     - data
+    Cluster 3
+    - Unique Words: 134175
+    - Top Words: cells
+     - cell
+     - expression
+     - using
+     - also
+     - used
+     - embryos
+     - signaling
+     - ’
+     - protein
+    Cluster 4
+    - Unique Words: 82408
+    - Top Words: neurons
+     - mice
+     - cells
+     - using
+     - activity
+     - used
+     - synaptic
+     - also
+     - cell
+     - two
+Get words unqiue to each cluster...
+    Cluster 0
+    - Unique: 124795 (27.17%)
+    - Intersect: 67814 (14.77%)
+    - List: structure
+     - residues
+     - interaction
+     - site
+     - nm
+     - interactions
+     - complexes
+     - concentration
+     - structures
+     - domains
+     - bound
+     - ph
+     - atp
+     - purified
+     - yeast
+     - 50
+     - added
+     - phosphorylation
+     - structural
+     - channel
+    Cluster 1
+    - Unique: 21172 (4.61%)
+    - Intersect: 29974 (6.53%)
+    - List: trials
+     - task
+     - participants
+     - trial
+     - subjects
+     - spatial
+     - performance
+     - reward
+     - value
+     - temporal
+     - experiment
+     - evidence
+     - connectivity
+     - presented
+     - difference
+     - correlation
+     - areas
+     - movement
+     - condition
+     - training
+    Cluster 2
+    - Unique: 112204 (24.43%)
+    - Intersect: 74203 (16.16%)
+    - List: species
+     - genome
+     - infection
+     - treatment
+     - cancer
+     - genetic
+     - per
+     - tumor
+     - lines
+     - reads
+     - sequencing
+     - pcr
+     - host
+     - new
+     - least
+     - use
+     - among
+     - treated
+     - genomic
+     - strains
+    Cluster 3
+    - Unique: 71168 (15.50%)
+    - Intersect: 63007 (13.72%)
+    - List: embryos
+     - muscle
+     - stage
+     - early
+     - differentiation
+     - actin
+     - drosophila
+     - adult
+     - along
+     - images
+     - defects
+     - gfp
+     - length
+     - localization
+     - normal
+     - zebrafish
+     - phenotype
+     - line
+     - embryo
+     - embryonic
+    Cluster 4
+    - Unique: 35762 (7.79%)
+    - Intersect: 46646 (10.16%)
+    - List: synaptic
+     - synapses
+     - input
+     - recordings
+     - current
+     - light
+     - inputs
+     - excitatory
+     - inhibition
+     - inhibitory
+     - release
+     - spike
+     - amplitude
+     - interneurons
+     - calcium
+     - receptors
+     - presynaptic
+     - recording
+     - sleep
+     - plasticity

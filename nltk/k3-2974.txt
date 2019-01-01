@@ -1,0 +1,169 @@
+Loading articles...
+Loaded 2974 articles.
+Vectorizing...
+Clustering... K=3
+Fitting K-Means...
+Initialization complete
+Iteration  0, inertia 5741.481
+Iteration  1, inertia 2915.772
+Iteration  2, inertia 2913.030
+Iteration  3, inertia 2910.667
+Iteration  4, inertia 2908.847
+Iteration  5, inertia 2908.032
+Iteration  6, inertia 2907.643
+Iteration  7, inertia 2907.444
+Iteration  8, inertia 2907.356
+Iteration  9, inertia 2907.290
+Iteration 10, inertia 2907.258
+Iteration 11, inertia 2907.232
+Iteration 12, inertia 2907.220
+Iteration 13, inertia 2907.212
+Iteration 14, inertia 2907.207
+Iteration 15, inertia 2907.201
+Iteration 16, inertia 2907.197
+Iteration 17, inertia 2907.190
+Iteration 18, inertia 2907.187
+Iteration 19, inertia 2907.174
+Iteration 20, inertia 2907.159
+Converged at iteration 20: center shift 0.000000e+00 within tolerance 1.755550e-09
+Result of fit: (array([0, 1, 2], dtype=int32), array([1186,  560, 1228]))
+Building entire text for each cluster...
+    ...0/2974
+    ...100/2974
+    ...200/2974
+    ...300/2974
+    ...400/2974
+    ...500/2974
+    ...600/2974
+    ...700/2974
+    ...800/2974
+    ...900/2974
+    ...1000/2974
+    ...1100/2974
+    ...1200/2974
+    ...1300/2974
+    ...1400/2974
+    ...1500/2974
+    ...1600/2974
+    ...1700/2974
+    ...1800/2974
+    ...1900/2974
+    ...2000/2974
+    ...2100/2974
+    ...2200/2974
+    ...2300/2974
+    ...2400/2974
+    ...2500/2974
+    ...2600/2974
+    ...2700/2974
+    ...2800/2974
+    ...2900/2974
+Building stopwords...
+Get top words for each cluster...
+    Cluster 0
+    - Unique Words: 145783
+    - Top Words: cells
+     - cell
+     - using
+     - expression
+     - mice
+     - also
+     - protein
+     - used
+     - proteins
+     - levels
+    Cluster 1
+    - Unique Words: 68252
+    - Top Words: neurons
+     - using
+     - activity
+     - cells
+     - used
+     - two
+     - also
+     - data
+     - mice
+     - time
+    Cluster 2
+    - Unique Words: 138489
+    - Top Words: using
+     - cells
+     - used
+     - also
+     - two
+     - protein
+     - data
+     - dna
+     - binding
+     - cell
+Get words unqiue to each cluster...
+    Cluster 0
+    - Unique: 95547 (34.84%)
+    - Intersect: 50236 (18.32%)
+    - List: signaling
+     - reduced
+     - embryos
+     - loss
+     - pathway
+     - development
+     - tissue
+     - treatment
+     - wt
+     - antibody
+     - phosphorylation
+     - antibodies
+     - differentiation
+     - wild-type
+     - actin
+     - suggesting
+     - analyzed
+     - normal
+     - expressing
+     - ca2+
+    Cluster 1
+    - Unique: 34201 (12.47%)
+    - Intersect: 34051 (12.42%)
+    - List: responses
+     - stimulus
+     - firing
+     - trials
+     - synaptic
+     - brain
+     - stimuli
+     - neural
+     - visual
+     - stimulation
+     - information
+     - cortex
+     - neuron
+     - sensory
+     - task
+     - motor
+     - spatial
+     - behavioral
+     - behavior
+     - input
+    Cluster 2
+    - Unique: 89300 (32.56%)
+    - Intersect: 49189 (17.94%)
+    - List: structure
+     - sequence
+     - interactions
+     - residues
+     - species
+     - sequences
+     - genome
+     - structures
+     - complexes
+     - density
+     - new
+     - chromatin
+     - bound
+     - yeast
+     - sample
+     - relative
+     - present
+     - mutation
+     - domains
+     - assembly
+

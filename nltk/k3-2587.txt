@@ -1,0 +1,160 @@
+Loading articles...
+Loaded 2587 articles.
+Vectorizing...
+Clustering... K=3
+Fitting K-Means...
+Initialization complete
+Iteration  0, inertia 5015.409
+Iteration  1, inertia 2534.445
+Iteration  2, inertia 2530.914
+Iteration  3, inertia 2529.246
+Iteration  4, inertia 2528.579
+Iteration  5, inertia 2528.355
+Iteration  6, inertia 2528.267
+Iteration  7, inertia 2528.234
+Iteration  8, inertia 2528.216
+Iteration  9, inertia 2528.172
+Iteration 10, inertia 2528.133
+Iteration 11, inertia 2528.110
+Iteration 12, inertia 2528.085
+Iteration 13, inertia 2528.080
+Iteration 14, inertia 2528.072
+Iteration 15, inertia 2528.067
+Converged at iteration 15: center shift 0.000000e+00 within tolerance 1.878853e-09
+Result of fit: (array([0, 1, 2], dtype=int32), array([ 513, 1771,  303]))
+Building entire text for each cluster...
+    ...0/2587
+    ...100/2587
+    ...200/2587
+    ...300/2587
+    ...400/2587
+    ...500/2587
+    ...600/2587
+    ...700/2587
+    ...800/2587
+    ...900/2587
+    ...1000/2587
+    ...1100/2587
+    ...1200/2587
+    ...1300/2587
+    ...1400/2587
+    ...1500/2587
+    ...1600/2587
+    ...1700/2587
+    ...1800/2587
+    ...1900/2587
+    ...2000/2587
+    ...2100/2587
+    ...2200/2587
+    ...2300/2587
+    ...2400/2587
+    ...2500/2587
+Building stopwords...
+Get top words for each cluster...
+    Cluster 0
+    - Unique Words: 75627
+    - Top Words: cells
+     - neurons
+     - using
+     - mice
+     - expression
+     - cell
+     - also
+     - used
+     - activity
+     - observed
+    Cluster 1
+    - Unique Words: 191914
+    - Top Words: cells
+     - using
+     - cell
+     - protein
+     - expression
+     - also
+     - used
+     - data
+     - proteins
+     - two
+    Cluster 2
+    - Unique Words: 42436
+    - Top Words: neurons
+     - activity
+     - using
+     - model
+     - two
+     - time
+     - used
+     - ’
+     - data
+     - cells
+Get words unqiue to each cluster...
+    Cluster 0
+    - Unique: 37451 (14.98%)
+    - Intersect: 38176 (15.27%)
+    - List: ca2+
+     - flies
+     - muscle
+     - actin
+     - release
+     - channels
+     - adult
+     - drosophila
+     - channel
+     - receptor
+     - axons
+     - solution
+     - synapses
+     - food
+     - days
+     - normal
+     - temperature
+     - fluorescence
+     - tissue
+     - axon
+    Cluster 1
+    - Unique: 150640 (60.26%)
+    - Intersect: 41274 (16.51%)
+    - List: dna
+     - rna
+     - structure
+     - sites
+     - transcription
+     - samples
+     - sequence
+     - site
+     - mutations
+     - interaction
+     - interactions
+     - residues
+     - state
+     - species
+     - concentration
+     - sequences
+     - form
+     - mrna
+     - known
+     - low
+    Cluster 2
+    - Unique: 18389 (7.36%)
+    - Intersect: 24047 (9.62%)
+    - List: stimulus
+     - firing
+     - trials
+     - across
+     - visual
+     - stimuli
+     - cortex
+     - information
+     - task
+     - spatial
+     - spike
+     - population
+     - learning
+     - subjects
+     - trial
+     - input
+     - value
+     - phase
+     - temporal
+     - cortical
+

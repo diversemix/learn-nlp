@@ -1,0 +1,191 @@
+Loading articles...
+Loaded 4112 articles.
+Vectorizing...
+Clustering... K=3
+Fitting K-Means...
+Initialization complete
+Iteration  0, inertia 7983.370
+Iteration  1, inertia 4041.618
+Iteration  2, inertia 4037.475
+Iteration  3, inertia 4036.579
+Iteration  4, inertia 4036.072
+Iteration  5, inertia 4035.632
+Iteration  6, inertia 4035.113
+Iteration  7, inertia 4034.371
+Iteration  8, inertia 4033.663
+Iteration  9, inertia 4033.132
+Iteration 10, inertia 4032.624
+Iteration 11, inertia 4032.182
+Iteration 12, inertia 4031.800
+Iteration 13, inertia 4031.383
+Iteration 14, inertia 4030.892
+Iteration 15, inertia 4030.315
+Iteration 16, inertia 4029.537
+Iteration 17, inertia 4028.350
+Iteration 18, inertia 4026.790
+Iteration 19, inertia 4025.523
+Iteration 20, inertia 4024.995
+Iteration 21, inertia 4024.754
+Iteration 22, inertia 4024.537
+Iteration 23, inertia 4024.318
+Iteration 24, inertia 4024.061
+Iteration 25, inertia 4023.714
+Iteration 26, inertia 4023.324
+Iteration 27, inertia 4023.068
+Iteration 28, inertia 4022.977
+Iteration 29, inertia 4022.956
+Iteration 30, inertia 4022.953
+Converged at iteration 30: center shift 0.000000e+00 within tolerance 1.449587e-09
+Result of fit: (array([0, 1, 2], dtype=int32), array([2562,  802,  748]))
+Building entire text for each cluster...
+    ...0/4112
+    ...100/4112
+    ...200/4112
+    ...300/4112
+    ...400/4112
+    ...500/4112
+    ...600/4112
+    ...700/4112
+    ...800/4112
+    ...900/4112
+    ...1000/4112
+    ...1100/4112
+    ...1200/4112
+    ...1300/4112
+    ...1400/4112
+    ...1500/4112
+    ...1600/4112
+    ...1700/4112
+    ...1800/4112
+    ...1900/4112
+    ...2000/4112
+    ...2100/4112
+    ...2200/4112
+    ...2300/4112
+    ...2400/4112
+    ...2500/4112
+    ...2600/4112
+    ...2700/4112
+    ...2800/4112
+    ...2900/4112
+    ...3000/4112
+    ...3100/4112
+    ...3200/4112
+    ...3300/4112
+    ...3400/4112
+    ...3500/4112
+    ...3600/4112
+    ...3700/4112
+    ...3800/4112
+    ...3900/4112
+    ...4000/4112
+    ...4100/4112
+Building stopwords...
+Get top words for each cluster...
+    Cluster 0
+    - Unique Words: 271084
+    - Top Words: cells
+     - using
+     - cell
+     - expression
+     - protein
+     - also
+     - used
+     - proteins
+     - binding
+     - two
+    Cluster 1
+    - Unique Words: 87345
+    - Top Words: neurons
+     - using
+     - activity
+     - cells
+     - used
+     - also
+     - two
+     - mice
+     - time
+     - ’
+    Cluster 2
+    - Unique Words: 74705
+    - Top Words: using
+     - data
+     - genes
+     - used
+     - also
+     - gene
+     - two
+     - cells
+     - model
+     - ’
+Get words unqiue to each cluster...
+    Cluster 0
+    - Unique: 216601 (61.41%)
+    - Intersect: 54483 (15.45%)
+    - List: binding
+     - domain
+     - mutant
+     - membrane
+     - buffer
+     - signaling
+     - containing
+     - mutants
+     - structure
+     - expressed
+     - formation
+     - addition
+     - transcription
+     - interaction
+     - site
+     - incubated
+     - reduced
+     - nm
+     - pathway
+     - loss
+    Cluster 1
+    - Unique: 45148 (12.80%)
+    - Intersect: 42197 (11.96%)
+    - List: responses
+     - stimulus
+     - firing
+     - synaptic
+     - trials
+     - brain
+     - visual
+     - neural
+     - stimulation
+     - neuron
+     - stimuli
+     - task
+     - cortex
+     - learning
+     - motor
+     - input
+     - sensory
+     - memory
+     - behavioral
+     - behavior
+    Cluster 2
+    - Unique: 34053 (9.65%)
+    - Intersect: 40652 (11.53%)
+    - List: species
+     - genome
+     - genetic
+     - sequences
+     - new
+     - populations
+     - individuals
+     - evolution
+     - selection
+     - mutation
+     - fitness
+     - sample
+     - reads
+     - research
+     - use
+     - example
+     - variation
+     - available
+     - strains
+     - per
+

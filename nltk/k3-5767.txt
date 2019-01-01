@@ -1,0 +1,190 @@
+Loading articles...
+Loaded 5767 articles.
+Vectorizing...
+Clustering... K=3
+Fitting K-Means...
+Initialization complete
+Iteration  0, inertia 11169.747
+Iteration  1, inertia 5669.257
+Iteration  2, inertia 5659.157
+Iteration  3, inertia 5655.036
+Iteration  4, inertia 5652.654
+Iteration  5, inertia 5651.473
+Iteration  6, inertia 5650.110
+Iteration  7, inertia 5648.221
+Iteration  8, inertia 5647.796
+Iteration  9, inertia 5647.669
+Iteration 10, inertia 5647.608
+Iteration 11, inertia 5647.585
+Iteration 12, inertia 5647.579
+Iteration 13, inertia 5647.577
+Converged at iteration 13: center shift 0.000000e+00 within tolerance 1.185150e-09
+Result of fit: (array([0, 1, 2], dtype=int32), array([1735, 2918, 1114]))
+Building entire text for each cluster...
+    ...0/5767
+    ...100/5767
+    ...200/5767
+    ...300/5767
+    ...400/5767
+    ...500/5767
+    ...600/5767
+    ...700/5767
+    ...800/5767
+    ...900/5767
+    ...1000/5767
+    ...1100/5767
+    ...1200/5767
+    ...1300/5767
+    ...1400/5767
+    ...1500/5767
+    ...1600/5767
+    ...1700/5767
+    ...1800/5767
+    ...1900/5767
+    ...2000/5767
+    ...2100/5767
+    ...2200/5767
+    ...2300/5767
+    ...2400/5767
+    ...2500/5767
+    ...2600/5767
+    ...2700/5767
+    ...2800/5767
+    ...2900/5767
+    ...3000/5767
+    ...3100/5767
+    ...3200/5767
+    ...3300/5767
+    ...3400/5767
+    ...3500/5767
+    ...3600/5767
+    ...3700/5767
+    ...3800/5767
+    ...3900/5767
+    ...4000/5767
+    ...4100/5767
+    ...4200/5767
+    ...4300/5767
+    ...4400/5767
+    ...4500/5767
+    ...4600/5767
+    ...4700/5767
+    ...4800/5767
+    ...4900/5767
+    ...5000/5767
+    ...5100/5767
+    ...5200/5767
+    ...5300/5767
+    ...5400/5767
+    ...5500/5767
+    ...5600/5767
+    ...5700/5767
+Building stopwords...
+Get top words for each cluster...
+    Cluster 0
+    - Unique Words: 202047
+    - Top Words: cells
+     - using
+     - protein
+     - cell
+     - proteins
+     - binding
+     - also
+     - used
+     - two
+     - 1
+    Cluster 1
+    - Unique Words: 265095
+    - Top Words: cells
+     - using
+     - expression
+     - cell
+     - genes
+     - also
+     - used
+     - gene
+     - mice
+     - ’
+    Cluster 2
+    - Unique Words: 108429
+    - Top Words: neurons
+     - activity
+     - using
+     - cells
+     - used
+     - ’
+     - two
+     - also
+     - time
+     - mice
+Get words unqiue to each cluster...
+    Cluster 0
+    - Unique: 131159 (28.56%)
+    - Intersect: 70888 (15.43%)
+    - List: membrane
+     - domain
+     - structure
+     - residues
+     - nm
+     - interaction
+     - interactions
+     - concentration
+     - structures
+     - domains
+     - fluorescence
+     - complexes
+     - form
+     - surface
+     - ca2+
+     - ph
+     - atp
+     - mechanism
+     - actin
+     - channel
+    Cluster 1
+    - Unique: 187260 (40.77%)
+    - Intersect: 77835 (16.95%)
+    - List: genes
+     - gene
+     - transcription
+     - development
+     - mrna
+     - embryos
+     - species
+     - genome
+     - treatment
+     - loss
+     - pathway
+     - tissue
+     - sequences
+     - type
+     - factors
+     - many
+     - differentiation
+     - days
+     - known
+     - per
+    Cluster 2
+    - Unique: 57579 (12.54%)
+    - Intersect: 50850 (11.07%)
+    - List: responses
+     - stimulus
+     - firing
+     - trials
+     - brain
+     - synaptic
+     - visual
+     - neural
+     - task
+     - stimulation
+     - stimuli
+     - neuron
+     - learning
+     - cortex
+     - motor
+     - information
+     - behavioral
+     - behavior
+     - network
+     - sensory
+
