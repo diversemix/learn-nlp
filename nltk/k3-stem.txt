@@ -1,0 +1,191 @@
+Loading articles...
+Loaded 5767 articles.
+Vectorizing...
+Clustering... K=3
+Fitting K-Means...
+Initialization complete
+Iteration  0, inertia 11243.188
+Iteration  1, inertia 5665.849
+Iteration  2, inertia 5655.499
+Iteration  3, inertia 5650.702
+Iteration  4, inertia 5649.258
+Iteration  5, inertia 5648.765
+Iteration  6, inertia 5648.544
+Iteration  7, inertia 5648.401
+Iteration  8, inertia 5648.290
+Iteration  9, inertia 5648.216
+Iteration 10, inertia 5648.181
+Iteration 11, inertia 5648.164
+Iteration 12, inertia 5648.153
+Iteration 13, inertia 5648.147
+Iteration 14, inertia 5648.143
+Iteration 15, inertia 5648.141
+Converged at iteration 15: center shift 0.000000e+00 within tolerance 1.185150e-09
+Result of fit: (array([0, 1, 2], dtype=int32), array([2497, 1078, 2192]))
+Building entire text for each cluster...
+    ...0/5767
+    ...100/5767
+    ...200/5767
+    ...300/5767
+    ...400/5767
+    ...500/5767
+    ...600/5767
+    ...700/5767
+    ...800/5767
+    ...900/5767
+    ...1000/5767
+    ...1100/5767
+    ...1200/5767
+    ...1300/5767
+    ...1400/5767
+    ...1500/5767
+    ...1600/5767
+    ...1700/5767
+    ...1800/5767
+    ...1900/5767
+    ...2000/5767
+    ...2100/5767
+    ...2200/5767
+    ...2300/5767
+    ...2400/5767
+    ...2500/5767
+    ...2600/5767
+    ...2700/5767
+    ...2800/5767
+    ...2900/5767
+    ...3000/5767
+    ...3100/5767
+    ...3200/5767
+    ...3300/5767
+    ...3400/5767
+    ...3500/5767
+    ...3600/5767
+    ...3700/5767
+    ...3800/5767
+    ...3900/5767
+    ...4000/5767
+    ...4100/5767
+    ...4200/5767
+    ...4300/5767
+    ...4400/5767
+    ...4500/5767
+    ...4600/5767
+    ...4700/5767
+    ...4800/5767
+    ...4900/5767
+    ...5000/5767
+    ...5100/5767
+    ...5200/5767
+    ...5300/5767
+    ...5400/5767
+    ...5500/5767
+    ...5600/5767
+    ...5700/5767
+Building stopwords...
+Get top words for each cluster...
+    Cluster 0
+    - Unique Words: 242609
+    - Top Words: cel
+     - us
+     - protein
+     - gen
+     - act
+     - mut
+     - reg
+     - bind
+     - express
+     - analys
+    Cluster 1
+    - Unique Words: 87935
+    - Top Words: neuron
+     - us
+     - act
+     - sign
+     - cel
+     - diff
+     - respons
+     - model
+     - tim
+     - stimul
+    Cluster 2
+    - Unique Words: 177911
+    - Top Words: cel
+     - us
+     - express
+     - gen
+     - sign
+     - act
+     - mic
+     - reg
+     - analys
+     - protein
+Get words unqiue to each cluster...
+    Cluster 0
+    - Unique: 184689 (43.97%)
+    - Intersect: 57920 (13.79%)
+    - List: genom
+     - structure
+     - residu
+     - stabl
+     - pur
+     - fluoresc
+     - assembl
+     - acid
+     - subst
+     - react
+     - conform
+     - nm
+     - channel
+     - solv
+     - ad
+     - peptid
+     - subunit
+     - respect
+     - fit
+     - bound
+    Cluster 1
+    - Unique: 51263 (12.20%)
+    - Intersect: 36672 (8.73%)
+    - List: stimul
+     - tri
+     - record
+     - behavy
+     - vis
+     - fir
+     - input
+     - spik
+     - task
+     - stim
+     - across
+     - correl
+     - connect
+     - mov
+     - synapt
+     - repres
+     - learn
+     - network
+     - neur
+     - cur
+    Cluster 2
+    - Unique: 118845 (28.29%)
+    - Intersect: 59066 (14.06%)
+    - List: tissu
+     - embryo
+     - mous
+     - differenty
+     - tum
+     - infect
+     - stag
+     - musc
+     - phenotyp
+     - ear
+     - stain
+     - loss
+     - mark
+     - cant
+     - prol
+     - adult
+     - demonst
+     - caus
+     - inject
+     - ag
